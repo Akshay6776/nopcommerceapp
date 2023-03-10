@@ -1,0 +1,335 @@
+2023-03-07 19:30:11,945 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 19:30:11,946 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 19:30:13,460 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 19:31:34,359 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 19:31:34,359 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 19:31:35,688 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 19:32:49,557 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 19:32:49,559 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 19:33:07,361 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-07 19:33:08,659 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 19:33:53,795 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 19:33:53,795 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 19:34:13,927 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-07 19:34:15,167 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 19:34:23,278 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-07 19:45:17,206 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 19:45:17,206 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 19:45:19,606 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-07 19:45:19,607 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 19:46:33,026 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 19:46:33,026 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 19:46:34,779 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-07 19:46:34,781 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 19:47:40,551 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 19:47:40,551 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 19:47:48,049 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-07 19:47:48,052 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 19:48:05,417 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 19:48:05,417 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 19:48:23,183 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-07 19:48:23,187 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 22:14:10,424 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 22:14:10,425 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 22:14:10,431 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 22:15:55,088 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 22:15:55,088 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 22:15:58,513 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 22:23:17,580 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 22:23:17,580 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 22:23:23,095 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 22:24:23,852 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 22:24:23,853 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 22:24:29,849 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 22:39:03,534 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 22:39:03,534 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 22:39:22,818 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-07 22:39:24,068 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 22:39:30,171 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-07 23:01:17,846 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 23:01:17,846 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 23:01:37,347 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-07 23:01:38,491 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 23:01:50,087 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-07 23:04:09,088 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 23:04:09,088 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 23:04:28,320 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-07 23:04:29,461 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 23:04:38,379 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-07 23:11:57,677 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 23:11:57,677 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 23:12:16,542 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-07 23:12:17,798 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 23:12:25,685 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-07 23:18:11,634 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 23:18:11,634 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 23:18:29,819 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-07 23:18:31,086 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 23:18:38,290 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-07 23:23:46,972 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 23:23:46,972 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 23:24:05,488 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-07 23:24:06,767 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 23:24:12,717 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-07 23:29:04,245 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 23:29:04,245 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 23:29:23,232 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-07 23:29:24,468 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 23:29:31,337 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-07 23:45:11,299 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-07 23:45:11,299 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-07 23:45:30,319 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-07 23:45:31,563 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-07 23:45:37,928 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-08 11:34:22,163 :INFO : Test_002_DDT_Login :********************  Test_002_DDT_Login  ********************
+2023-03-08 11:34:22,164 :INFO : Test_002_DDT_Login :********************  verifying the Log In DDT test  ********************
+2023-03-08 11:34:28,626 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 11:34:29,969 :INFO : Test_002_DDT_Login :***********  Login DDt Passed  **********
+2023-03-08 11:36:44,025 :INFO : Test_002_DDT_Login :********************  Test_002_DDT_Login  ********************
+2023-03-08 11:36:44,026 :INFO : Test_002_DDT_Login :********************  verifying the Log In DDT test  ********************
+2023-03-08 11:36:58,298 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 11:39:56,334 :INFO : Test_002_DDT_Login :********************  Test_002_DDT_Login  ********************
+2023-03-08 11:39:56,334 :INFO : Test_002_DDT_Login :********************  verifying the Log In DDT test  ********************
+2023-03-08 11:40:02,839 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 11:40:06,681 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 11:45:34,791 :INFO : Test_002_DDT_Login :********************  Test_002_DDT_Login  ********************
+2023-03-08 11:45:34,792 :INFO : Test_002_DDT_Login :********************  verifying the Log In DDT test  ********************
+2023-03-08 11:45:44,127 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 11:55:52,498 :INFO : Test_002_DDT_Login :********************  Test_002_DDT_Login  ********************
+2023-03-08 11:55:52,498 :INFO : Test_002_DDT_Login :********************  verifying the Log In DDT test  ********************
+2023-03-08 11:56:00,647 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 11:56:39,847 :INFO : Test_002_DDT_Login :********************  Test_002_DDT_Login  ********************
+2023-03-08 11:56:39,848 :INFO : Test_002_DDT_Login :********************  verifying the Log In DDT test  ********************
+2023-03-08 11:56:47,688 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 11:57:43,549 :INFO : Test_002_DDT_Login :********************  Test_002_DDT_Login  ********************
+2023-03-08 11:57:43,549 :INFO : Test_002_DDT_Login :********************  verifying the Log In DDT test  ********************
+2023-03-08 11:57:50,784 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 11:57:54,689 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 11:57:57,338 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 11:57:59,900 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 11:57:59,900 :INFO : Test_002_DDT_Login :***********  Login DDt Passed  **********
+2023-03-08 11:58:16,170 :INFO : Test_002_DDT_Login :********************  End of Loging ddt test case  ********************
+2023-03-08 11:58:16,170 :INFO : Test_002_DDT_Login :********************  completed Test_002_DDT_Login  ********************
+2023-03-08 12:05:24,723 :INFO : Test_002_DDT_Login :********************  Test_002_DDT_Login  ********************
+2023-03-08 12:05:24,724 :INFO : Test_002_DDT_Login :********************  verifying the Log In DDT test  ********************
+2023-03-08 12:05:31,872 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 12:05:35,821 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 12:05:38,395 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 12:05:40,987 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-08 12:05:40,988 :INFO : Test_002_DDT_Login :***********  Login DDt Passed  **********
+2023-03-08 12:05:57,229 :INFO : Test_002_DDT_Login :********************  End of Loging ddt test case  ********************
+2023-03-08 12:05:57,229 :INFO : Test_002_DDT_Login :********************  completed Test_002_DDT_Login  ********************
+2023-03-09 10:51:24,002 :INFO : Test_003_AddCustomer :***********  Test_003_AddCustomer  ***********
+2023-03-09 10:51:31,753 :INFO : Test_003_AddCustomer :**********************  Loggin successfull  **************
+2023-03-09 10:51:31,753 :INFO : Test_003_AddCustomer :**********************  Start add customer test  **************
+2023-03-09 10:52:18,451 :INFO : Test_003_AddCustomer :***********  Test_003_AddCustomer  ***********
+2023-03-09 10:52:26,168 :INFO : Test_003_AddCustomer :**********************  Loggin successfull  **************
+2023-03-09 10:52:26,169 :INFO : Test_003_AddCustomer :**********************  Start add customer test  **************
+2023-03-09 10:52:30,496 :INFO : Test_003_AddCustomer :**************  Providing customer info  **************
+2023-03-09 10:55:02,715 :INFO : Test_003_AddCustomer :***********  Test_003_AddCustomer  ***********
+2023-03-09 10:55:09,834 :INFO : Test_003_AddCustomer :**********************  Loggin successfull  **************
+2023-03-09 10:55:09,834 :INFO : Test_003_AddCustomer :**********************  Start add customer test  **************
+2023-03-09 10:55:14,253 :INFO : Test_003_AddCustomer :**************  Providing customer info  **************
+2023-03-09 10:58:24,744 :INFO : Test_003_AddCustomer :***********  Test_003_AddCustomer  ***********
+2023-03-09 10:58:31,999 :INFO : Test_003_AddCustomer :**********************  Loggin successfull  **************
+2023-03-09 10:58:31,999 :INFO : Test_003_AddCustomer :**********************  Start add customer test  **************
+2023-03-09 10:58:36,524 :INFO : Test_003_AddCustomer :**************  Providing customer info  **************
+2023-03-09 10:59:53,318 :INFO : Test_003_AddCustomer :***********  Test_003_AddCustomer  ***********
+2023-03-09 11:00:01,961 :INFO : Test_003_AddCustomer :**********************  Loggin successfull  **************
+2023-03-09 11:00:01,962 :INFO : Test_003_AddCustomer :**********************  Start add customer test  **************
+2023-03-09 11:00:06,299 :INFO : Test_003_AddCustomer :**************  Providing customer info  **************
+2023-03-09 11:01:14,884 :INFO : Test_003_AddCustomer :***********  Test_003_AddCustomer  ***********
+2023-03-09 11:01:21,396 :INFO : Test_003_AddCustomer :**********************  Loggin successfull  **************
+2023-03-09 11:01:21,396 :INFO : Test_003_AddCustomer :**********************  Start add customer test  **************
+2023-03-09 11:01:25,972 :INFO : Test_003_AddCustomer :**************  Providing customer info  **************
+2023-03-09 11:02:41,055 :INFO : Test_003_AddCustomer :***********  Test_003_AddCustomer  ***********
+2023-03-09 11:02:48,497 :INFO : Test_003_AddCustomer :**********************  Loggin successfull  **************
+2023-03-09 11:02:48,497 :INFO : Test_003_AddCustomer :**********************  Start add customer test  **************
+2023-03-09 11:02:52,861 :INFO : Test_003_AddCustomer :**************  Providing customer info  **************
+2023-03-09 11:03:25,460 :INFO : Test_003_AddCustomer :***********  Test_003_AddCustomer  ***********
+2023-03-09 11:03:29,467 :INFO : Test_003_AddCustomer :**********************  Loggin successfull  **************
+2023-03-09 11:03:29,467 :INFO : Test_003_AddCustomer :**********************  Start add customer test  **************
+2023-03-09 11:03:33,992 :INFO : Test_003_AddCustomer :**************  Providing customer info  **************
+2023-03-09 11:06:30,239 :INFO : Test_003_AddCustomer :***********  Test_003_AddCustomer  ***********
+2023-03-09 11:06:40,256 :INFO : Test_003_AddCustomer :**********************  Loggin successfull  **************
+2023-03-09 11:06:40,256 :INFO : Test_003_AddCustomer :**********************  Start add customer test  **************
+2023-03-09 11:06:47,932 :INFO : Test_003_AddCustomer :**************  Providing customer info  **************
+2023-03-09 11:06:54,320 :INFO : Test_003_AddCustomer :*******************  customer info added and saved ******************
+2023-03-09 11:06:54,322 :INFO : Test_003_AddCustomer :*******************  customer added info validation starts  *****************
+2023-03-09 11:06:54,370 :INFO : Test_003_AddCustomer :final allert message is×
+The new customer has been added successfully.
+2023-03-09 11:07:10,642 :INFO : Test_003_AddCustomer :************* End of customer adding test  **************
+2023-03-09 14:31:51,740 :INFO : Test_003_Search_Customer_by_email :***********  Test_003_Search_Customer_by_email  ***********
+2023-03-09 14:32:05,568 :INFO : Test_003_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-09 14:32:10,644 :INFO : Test_003_Search_Customer_by_email :**********************  Start search customer by Email test  **************
+2023-03-09 14:32:12,908 :INFO : Test_003_Search_Customer_by_email :**********************  search customer test finist **************
+2023-03-09 14:33:16,073 :INFO : Test_003_Search_Customer_by_email :***********  Test_003_Search_Customer_by_email  ***********
+2023-03-09 14:33:25,321 :INFO : Test_003_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-09 14:33:50,400 :INFO : Test_003_Search_Customer_by_email :**********************  Start search customer by Email test  **************
+2023-03-09 14:33:52,711 :INFO : Test_003_Search_Customer_by_email :**********************  search customer test finist **************
+2023-03-09 14:43:13,017 :INFO : Test_005_Search_Customer_by_Name :***********  Test_005_Search_Customer_by_Name  ***********
+2023-03-09 14:43:20,790 :INFO : Test_005_Search_Customer_by_Name :**********************  Loggin successfull  **************
+2023-03-09 14:43:24,424 :INFO : Test_005_Search_Customer_by_Name :**********************  Start search customer by name test  **************
+2023-03-09 14:43:26,824 :INFO : Test_005_Search_Customer_by_Name :**********************  search customer test finist **************
+2023-03-10 10:27:05,387 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-10 10:27:14,881 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-10 10:27:16,285 :INFO : Test_003_AddCustomer :***********  Test_003_AddCustomer  ***********
+2023-03-10 10:27:19,524 :INFO : Test_003_AddCustomer :**********************  Loggin successfull  **************
+2023-03-10 10:27:19,525 :INFO : Test_003_AddCustomer :**********************  Start add customer test  **************
+2023-03-10 10:27:23,831 :INFO : Test_003_AddCustomer :**************  Providing customer info  **************
+2023-03-10 10:27:30,065 :INFO : Test_003_AddCustomer :*******************  customer info added and saved ******************
+2023-03-10 10:27:30,065 :INFO : Test_003_AddCustomer :*******************  customer added info validation starts  *****************
+2023-03-10 10:27:30,098 :INFO : Test_003_AddCustomer :final allert message is×
+The new customer has been added successfully.
+2023-03-10 10:27:30,206 :INFO : Test_003_AddCustomer :************* End of customer adding test  **************
+2023-03-10 10:29:33,377 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-10 10:29:33,381 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-10 10:29:36,051 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-10 10:29:41,429 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-10 10:29:47,803 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-10 10:29:54,050 :INFO : Test_002_DDT_Login :********************  Test_002_DDT_Login  ********************
+2023-03-10 10:29:54,050 :INFO : Test_002_DDT_Login :********************  verifying the Log In DDT test  ********************
+2023-03-10 10:30:00,648 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:30:05,018 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:30:07,651 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:30:10,190 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:30:10,190 :INFO : Test_002_DDT_Login :***********  Login DDt Passed  **********
+2023-03-10 10:30:10,865 :INFO : Test_002_DDT_Login :********************  End of Loging ddt test case  ********************
+2023-03-10 10:30:10,865 :INFO : Test_002_DDT_Login :********************  completed Test_002_DDT_Login  ********************
+2023-03-10 10:30:16,445 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 10:30:19,562 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 10:30:28,044 :INFO : Test_005_Search_Customer_by_Name :***********  Test_005_Search_Customer_by_Name  ***********
+2023-03-10 10:30:31,522 :INFO : Test_005_Search_Customer_by_Name :**********************  Loggin successfull  **************
+2023-03-10 10:32:03,957 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-10 10:32:03,957 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-10 10:32:06,441 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-10 10:32:11,959 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-10 10:32:15,474 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-10 10:32:21,803 :INFO : Test_002_DDT_Login :********************  Test_002_DDT_Login  ********************
+2023-03-10 10:32:21,803 :INFO : Test_002_DDT_Login :********************  verifying the Log In DDT test  ********************
+2023-03-10 10:32:27,121 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:32:31,306 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:32:33,895 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:32:36,507 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:32:36,507 :INFO : Test_002_DDT_Login :***********  Login DDt Passed  **********
+2023-03-10 10:32:37,276 :INFO : Test_002_DDT_Login :********************  End of Loging ddt test case  ********************
+2023-03-10 10:32:37,276 :INFO : Test_002_DDT_Login :********************  completed Test_002_DDT_Login  ********************
+2023-03-10 10:32:43,005 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 10:32:47,545 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 10:32:56,072 :INFO : Test_005_Search_Customer_by_Name :***********  Test_005_Search_Customer_by_Name  ***********
+2023-03-10 10:32:59,264 :INFO : Test_005_Search_Customer_by_Name :**********************  Loggin successfull  **************
+2023-03-10 10:33:44,517 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-10 10:33:44,518 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-10 10:33:47,345 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-10 10:33:48,640 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-10 10:33:52,943 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-10 10:33:54,406 :INFO : Test_002_DDT_Login :********************  Test_002_DDT_Login  ********************
+2023-03-10 10:33:54,407 :INFO : Test_002_DDT_Login :********************  verifying the Log In DDT test  ********************
+2023-03-10 10:33:59,987 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:34:04,166 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:34:06,834 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:34:09,542 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:34:09,542 :INFO : Test_002_DDT_Login :***********  Login DDt Passed  **********
+2023-03-10 10:34:09,670 :INFO : Test_002_DDT_Login :********************  End of Loging ddt test case  ********************
+2023-03-10 10:34:09,672 :INFO : Test_002_DDT_Login :********************  completed Test_002_DDT_Login  ********************
+2023-03-10 10:34:11,046 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 10:34:17,447 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 10:34:20,677 :INFO : Test_004_Search_Customer_by_email :**********************  Start search customer by Email test  **************
+2023-03-10 10:34:34,496 :INFO : Test_005_Search_Customer_by_Name :***********  Test_005_Search_Customer_by_Name  ***********
+2023-03-10 10:34:42,359 :INFO : Test_005_Search_Customer_by_Name :**********************  Loggin successfull  **************
+2023-03-10 10:34:45,753 :INFO : Test_005_Search_Customer_by_Name :**********************  Start search customer by name test  **************
+2023-03-10 10:34:48,147 :INFO : Test_005_Search_Customer_by_Name :**********************  search customer test finist **************
+2023-03-10 10:36:31,212 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 10:36:37,418 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 10:36:40,636 :INFO : Test_004_Search_Customer_by_email :**********************  Start search customer by Email test  **************
+2023-03-10 10:39:02,971 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 10:39:09,212 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 10:39:12,949 :INFO : Test_004_Search_Customer_by_email :**********************  Start search customer by Email test  **************
+2023-03-10 10:39:23,477 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 10:39:30,359 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 10:39:33,764 :INFO : Test_004_Search_Customer_by_email :**********************  Start search customer by Email test  **************
+2023-03-10 10:39:36,107 :INFO : Test_004_Search_Customer_by_email :**********************  search customer test finist **************
+2023-03-10 10:41:09,362 :INFO : Test_005_Search_Customer_by_Name :***********  Test_005_Search_Customer_by_Name  ***********
+2023-03-10 10:41:14,818 :INFO : Test_005_Search_Customer_by_Name :**********************  Loggin successfull  **************
+2023-03-10 10:41:18,656 :INFO : Test_005_Search_Customer_by_Name :**********************  Start search customer by name test  **************
+2023-03-10 10:41:21,222 :INFO : Test_005_Search_Customer_by_Name :**********************  search customer test finist **************
+2023-03-10 10:41:53,056 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-10 10:41:53,056 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-10 10:41:55,645 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-10 10:41:56,924 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-10 10:42:04,149 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-10 10:42:05,516 :INFO : Test_002_DDT_Login :********************  Test_002_DDT_Login  ********************
+2023-03-10 10:42:05,516 :INFO : Test_002_DDT_Login :********************  verifying the Log In DDT test  ********************
+2023-03-10 10:42:10,762 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:42:14,912 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:42:17,745 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:42:20,509 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:42:20,509 :INFO : Test_002_DDT_Login :***********  Login DDt Passed  **********
+2023-03-10 10:42:20,623 :INFO : Test_002_DDT_Login :********************  End of Loging ddt test case  ********************
+2023-03-10 10:42:20,623 :INFO : Test_002_DDT_Login :********************  completed Test_002_DDT_Login  ********************
+2023-03-10 10:42:21,911 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 10:42:27,067 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 10:42:30,229 :INFO : Test_004_Search_Customer_by_email :**********************  Start search customer by Email test  **************
+2023-03-10 10:42:32,477 :INFO : Test_004_Search_Customer_by_email :**********************  search customer test finist **************
+2023-03-10 10:42:33,817 :INFO : Test_005_Search_Customer_by_Name :***********  Test_005_Search_Customer_by_Name  ***********
+2023-03-10 10:42:36,906 :INFO : Test_005_Search_Customer_by_Name :**********************  Loggin successfull  **************
+2023-03-10 10:42:40,092 :INFO : Test_005_Search_Customer_by_Name :**********************  Start search customer by name test  **************
+2023-03-10 10:42:42,430 :INFO : Test_005_Search_Customer_by_Name :**********************  search customer test finist **************
+2023-03-10 10:43:08,032 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-10 10:43:08,032 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-10 10:43:09,980 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-10 10:43:15,514 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-10 10:43:20,899 :INFO : Test_001_Login :**********************  Loggin test Passed  **************
+2023-03-10 10:43:27,087 :INFO : Test_002_DDT_Login :********************  Test_002_DDT_Login  ********************
+2023-03-10 10:43:27,088 :INFO : Test_002_DDT_Login :********************  verifying the Log In DDT test  ********************
+2023-03-10 10:43:31,916 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:43:35,935 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:43:38,494 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:43:41,085 :INFO : Test_002_DDT_Login :**********  Passed  ***********
+2023-03-10 10:43:41,085 :INFO : Test_002_DDT_Login :***********  Login DDt Passed  **********
+2023-03-10 10:43:41,762 :INFO : Test_002_DDT_Login :********************  End of Loging ddt test case  ********************
+2023-03-10 10:43:41,762 :INFO : Test_002_DDT_Login :********************  completed Test_002_DDT_Login  ********************
+2023-03-10 10:43:47,399 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 10:43:51,332 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 10:43:59,706 :INFO : Test_005_Search_Customer_by_Name :***********  Test_005_Search_Customer_by_Name  ***********
+2023-03-10 10:44:04,881 :INFO : Test_005_Search_Customer_by_Name :**********************  Loggin successfull  **************
+2023-03-10 10:51:20,596 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 10:51:27,414 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 10:55:17,876 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 10:55:24,906 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 10:57:59,432 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 10:58:05,600 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 10:59:33,752 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 10:59:39,476 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 11:08:55,131 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 11:09:00,104 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 11:09:07,440 :INFO : Test_004_Search_Customer_by_email :**********************  Start search customer by Email test  **************
+2023-03-10 11:17:08,236 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 11:17:15,963 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 11:17:18,714 :INFO : Test_004_Search_Customer_by_email :**********************  Start search customer by Email test  **************
+2023-03-10 11:19:10,510 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 11:19:15,808 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 11:19:18,707 :INFO : Test_004_Search_Customer_by_email :**********************  Start search customer by Email test  **************
+2023-03-10 11:20:41,983 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 11:20:50,832 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 11:20:54,340 :INFO : Test_004_Search_Customer_by_email :**********************  Start search customer by Email test  **************
+2023-03-10 11:22:28,861 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 11:22:33,269 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 11:22:36,388 :INFO : Test_004_Search_Customer_by_email :**********************  Start search customer by Email test  **************
+2023-03-10 11:22:38,723 :INFO : Test_004_Search_Customer_by_email :**********************  search customer test finist **************
+2023-03-10 11:22:53,530 :INFO : Test_004_Search_Customer_by_email :***********  Test_004_Search_Customer_by_email  ***********
+2023-03-10 11:23:00,132 :INFO : Test_004_Search_Customer_by_email :**********************  Loggin successfull  **************
+2023-03-10 11:23:03,357 :INFO : Test_004_Search_Customer_by_email :**********************  Start search customer by Email test  **************
+2023-03-10 11:23:06,263 :INFO : Test_004_Search_Customer_by_email :**********************  search customer test finist **************
+2023-03-10 11:26:10,252 :INFO : Test_005_Search_Customer_by_Name :***********  Test_005_Search_Customer_by_Name  ***********
+2023-03-10 11:26:15,801 :INFO : Test_005_Search_Customer_by_Name :**********************  Loggin successfull  **************
+2023-03-10 11:26:18,552 :INFO : Test_005_Search_Customer_by_Name :**********************  Start search customer by name test  **************
+2023-03-10 11:27:34,587 :INFO : Test_005_Search_Customer_by_Name :***********  Test_005_Search_Customer_by_Name  ***********
+2023-03-10 11:27:40,932 :INFO : Test_005_Search_Customer_by_Name :**********************  Loggin successfull  **************
+2023-03-10 11:27:43,756 :INFO : Test_005_Search_Customer_by_Name :**********************  Start search customer by name test  **************
+2023-03-10 11:27:46,661 :INFO : Test_005_Search_Customer_by_Name :**********************  search customer test finist **************
+2023-03-10 11:42:43,013 :INFO : Test_001_Login :**********************  Test_001_Login  **************
+2023-03-10 11:42:43,013 :INFO : Test_001_Login :**********************  Verify HomePage Title  **************
+2023-03-10 11:42:45,169 :INFO : Test_001_Login :**********************  HomePage Title test Passed  **************
+2023-03-10 11:42:46,495 :INFO : Test_001_Login :********************  verifying the Log In test  ********************
+2023-03-10 11:42:53,916 :INFO : Test_001_Login :**********************  Loggin test Passed  **************

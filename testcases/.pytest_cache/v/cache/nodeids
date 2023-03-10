@@ -1,0 +1,9 @@
+[
+  "test_Login.py::Test_001_Login::test_homepageTitle",
+  "test_Login.py::Test_001_Login::test_login",
+  "test_Login_ddt.py::Test_002_DDT_Login::test_login_DDT",
+  "test_addCustomer.py::Test_003_AddCustomer::test_addCustomer",
+  "test_searchcustomerByEmail.py::Test_003_Search_Customer_by_email::test_searchCustomer_by_email",
+  "test_searchcustomerByEmail.py::Test_004_Search_Customer_by_email::test_searchCustomer_by_email",
+  "test_searchcustomerByName.py::Test_005_Search_Customer_by_Name::test_searchCustomer_by_name"
+]
